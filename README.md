@@ -84,6 +84,17 @@ The project uses **Multinomial Naive Bayes**, a probabilistic classification alg
 - Add a confusion matrix for model evaluation.
 - Deploy the application online.
 - Improve the user interface and prediction results.
+  
+## output
+
+### 
+![not spam](<img width="1920" height="1080" alt="Screenshot 2026-05-22 222646" src="https://github.com/user-attachments/assets/287f24d7-c886-470f-bee4-453e96eb100f" />
+)
+
+### 
+![Spam](<img width="1920" height="1080" alt="Screenshot 2026-05-22 222620" src="https://github.com/user-attachments/assets/ab2d03df-407e-4215-b887-bdfbf6d25c22" />
+)
+
 
 ## 👨‍💻 Author
 
